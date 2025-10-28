@@ -1,1 +1,0 @@
-# Spech-To-Text-Application
